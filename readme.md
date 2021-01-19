@@ -1,4 +1,16 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center">
+This project like e-learning ,there are frontend and backend features done below check features:
+   admin:
+    1.add course
+    2.add schedule
+    3.set course wise schedule class
+    4.reports (like course,registered students,daily,weekly)
+    5.ticket system
+    frontend:
+    1.frontend website
+    2.signin and signUp
+    3.enroll course
+</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
